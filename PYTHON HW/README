@@ -1,4 +1,4 @@
-        PYTHON REFERENCE  (w/ HW's)
+        #PYTHON REFERENCE  (w/ HW's)
 
 HW 1: Whitespace, no ';', Variable Names, Basic Assignment Operator, User Input, & 3 value Average, C-string print {:,.2f}.format(varName)
 HW 2: Arrays, If-in statements, Concatenation, Dictionary (K,V Pair), Dictionary-pop(), For loop, Update Dictionary,  # Comments
