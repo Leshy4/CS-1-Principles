@@ -1,0 +1,10 @@
+        PYTHON REFERENCE  (w/ HW's)
+
+HW 1: Whitespace, no ';', Variable Names, Basic Assignment Operator, User Input, & 3 value Average, C-string print {:,.2f}.format(varName)
+HW 2: Arrays, If-in statements, Concatenation, Dictionary (K,V Pair), Dictionary-pop(), For loop, Update Dictionary,  # Comments
+HW 3: Arrays.sort(), elif statments, Nested Loops
+HW 4: %, ==, !=, +=, if-in & if-not-in, functions = 'def func:', function(parameters), while, or
+HW 5: Array.append(val), isalpha(), isdigit(), [0,-1] == array[0] to array[array.length()-1]
+HW 6: Casting str(number) | int(string), len(string) = string length, Recusive Function Calling 
+HW 7: Class Members & Functions, Inheritance, Constructors = __init__ (parameters): code...
+HW 8: Class Construction & Multi-Inheritance, 
